@@ -11,7 +11,7 @@ I made code in javascript where pacman moves in every direction and got red aler
 
 ##Coding
 
-Javascript is easier to use to make such type of projects.
+Javascript is easier to use to make such type of projects. i made game using simple code
 
 ##updation
 
